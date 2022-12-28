@@ -1,7 +1,7 @@
 # Cinema-app 🎥
 
 ### 📜 Description
-This is simple simulation of cinema  service for reservation tickets, 
+This is a simulation of cinema  service for reservation tickets, 
 that supports registration, authentication and CRUD operations. It was written in Java and Spring.
 All information is received in JSON format.
 ### ⚙️ Features
@@ -27,6 +27,7 @@ ADMIN and USER.
 | `Application tier - Service` |
 | `Data access tier - DAO` |
 
+#### Database structure
 ![diagram](img/uml.png)
 
 ### 💻 Technologies
